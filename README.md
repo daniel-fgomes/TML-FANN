@@ -7,4 +7,4 @@ course in Department of Electronics and Systems/UFPE, for simplicity the
 cross-validation procedures and parameter settings are not treated here. 
 
 To compile: 
-g++ -o templateFANN.exe ./templateFANN.cpp  -lm -lfann
+g++ -o templateFANN ./templateFANN.cpp  -lm -lfann

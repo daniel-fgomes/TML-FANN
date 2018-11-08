@@ -5,4 +5,6 @@ Link: http://leenissen.dk/fann/wp/
 This is an toy problem provided as an illustrative example in Machine Learning 
 course in Department of Electronics and Systems/UFPE, for simplicity the 
 cross-validation procedures and parameter settings are not treated here. 
-The project was developed using Netbeans IDE 8.2 on Ubuntu 18.04.
+
+To compile: 
+g++ -o templateFANN.exe ./templateFANN.cpp  -lm -lfann
